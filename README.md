@@ -6,4 +6,5 @@ to run it just download
 simon_v0932.js
 simon_v0932.html
 
-and ckick the html file
+and click the html file
+
